@@ -1,0 +1,42 @@
+body {
+    background-color: silver;
+}
+
+span {
+    font-weight: 900;
+}
+
+/* o primeiro é deslocxamento horizontal, o segundo é deslocamento vertical, o terceiro é a força da sombra */
+h1 {
+    text-shadow: -5px -5px 5px rgb(255, 0, 0);
+    text-align: center;
+}
+
+h2 {
+    text-shadow: 7px 7px 7px rgb(0, 204, 255);
+}
+
+p {
+    line-height: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+
+.texto {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-small;
+}
+
+.texto2 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+}

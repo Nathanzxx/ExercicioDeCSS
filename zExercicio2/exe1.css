@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap');
+
+body {
+    /* background-image: url(https://rcbxpersonalizados.files.wordpress.com/2015/02/ben-10-2.jpg); */
+    background-color: silver;
+    /* background-image: url(https://www.otvfoco.com.br/wp-content/uploads/2019/10/thais-carla-1572355524469_v2_900x506.jpg); */
+}
+
+h1,
+h2 {
+    color: blue;
+    font-family: "Rubik Scribble", system-ui;
+    font-size: 40px;
+    text-align: left;
+    text-shadow: 7px 7px 7px;
+    line-height: 2;
+    font-style: oblique;
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+p.texto {
+    color: rgb(0, 250, 154);
+}
+span{
+    color:rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
